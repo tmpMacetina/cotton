@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cotton/static/css/main.a22674ec.chunk.css",
-    "main.js": "/cotton/static/js/main.9c4e469a.chunk.js",
-    "main.js.map": "/cotton/static/js/main.9c4e469a.chunk.js.map",
+    "main.css": "/cotton/static/css/main.af77d6fd.chunk.css",
+    "main.js": "/cotton/static/js/main.1153b278.chunk.js",
+    "main.js.map": "/cotton/static/js/main.1153b278.chunk.js.map",
     "runtime-main.js": "/cotton/static/js/runtime-main.f2dc2498.js",
     "runtime-main.js.map": "/cotton/static/js/runtime-main.f2dc2498.js.map",
     "static/js/2.0dcfb9a7.chunk.js": "/cotton/static/js/2.0dcfb9a7.chunk.js",
     "static/js/2.0dcfb9a7.chunk.js.map": "/cotton/static/js/2.0dcfb9a7.chunk.js.map",
     "index.html": "/cotton/index.html",
-    "precache-manifest.e1290fe78cb7ce31e4da6e0663ca3d08.js": "/cotton/precache-manifest.e1290fe78cb7ce31e4da6e0663ca3d08.js",
+    "precache-manifest.2c09076a973dd963cb151985f51eed5f.js": "/cotton/precache-manifest.2c09076a973dd963cb151985f51eed5f.js",
     "service-worker.js": "/cotton/service-worker.js",
-    "static/css/main.a22674ec.chunk.css.map": "/cotton/static/css/main.a22674ec.chunk.css.map",
+    "static/css/main.af77d6fd.chunk.css.map": "/cotton/static/css/main.af77d6fd.chunk.css.map",
     "static/js/2.0dcfb9a7.chunk.js.LICENSE.txt": "/cotton/static/js/2.0dcfb9a7.chunk.js.LICENSE.txt",
     "static/media/cotton-min.png": "/cotton/static/media/cotton-min.fa254f01.png",
     "static/media/forHerMin.jpg": "/cotton/static/media/forHerMin.f5ca48a7.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.f2dc2498.js",
     "static/js/2.0dcfb9a7.chunk.js",
-    "static/css/main.a22674ec.chunk.css",
-    "static/js/main.9c4e469a.chunk.js"
+    "static/css/main.af77d6fd.chunk.css",
+    "static/js/main.1153b278.chunk.js"
   ]
 }
